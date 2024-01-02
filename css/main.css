@@ -202,28 +202,27 @@ body {
 .important-work img {
 	width: 100%;
 	opacity: .8;
-	transition: all ease-in-out 5s;
-	-webkit-transition: all ease-in-out 5s;
-	-moz-transition: all ease-in-out 5s;
-	-ms-transition: all ease-in-out 5s;
-	-o-transition: all ease-in-out 5s;
+	transition: all ease-in-out 7s;
+	-webkit-transition: all ease-in-out 7s;
+	-moz-transition: all ease-in-out 7s;
+	-ms-transition: all ease-in-out 7s;
+	-o-transition: all ease-in-out 7s;
 }
 .important-work .frame-1 img:hover {
 	opacity:1;
-	transform: translateY(-4180px);
-	-webkit-transform: translateY(-4180px);
-	-moz-transform: translateY(-4180px);
-	-ms-transform: translateY(-4180px);
-	-o-transform: translateY(-4180px);
-
+	transform: translateY(-4115px);
+	-webkit-transform: translateY(-4115px);
+	-moz-transform: translateY(-4115px);
+	-ms-transform: translateY(-4115px);
+	-o-transform: translateY(-4115px);
 }
 .important-work .frame-2 img:hover {
 	opacity:1;
-	transform: translateY(-1990px);
-	-webkit-transform: translateY(-1990px);
-	-moz-transform: translateY(-1990px);
-	-ms-transform: translateY(-1990px);
-	-o-transform: translateY(-1990px);
+	transform: translateY(-2005px);
+	-webkit-transform: translateY(-2005px);
+	-moz-transform: translateY(-2005px);
+	-ms-transform: translateY(-2005px);
+	-o-transform: translateY(-2005px);
 }
 
 
