@@ -3,6 +3,7 @@
   --main-color--: #ffc107;
   --main-background--: #0d0c0d;
   --background-section: #080708;
+  --gred-color : linear-gradient(to right, #FDA915 , #222);
 }
 html,
 body {
@@ -13,7 +14,19 @@ body {
   box-sizing: border-box;
 }
 /* */
+::-webkit-scrollbar{
+  background: #222;
 
+}
+::-webkit-scrollbar-thumb{
+  background: var(--gred-color);
+  width: 50px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
 /* */
 .navbar-dark .navbar-brand {
   color: #fff;
