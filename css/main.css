@@ -496,6 +496,7 @@ body {
   transform: translate(-50%, -50%);
   width: 100%;
   text-transform: uppercase;
+  text-align: center;
 }
 .my-all-gallery .my-all-card .overlay .visit-site:hover {
   color: #ddd;
@@ -508,6 +509,7 @@ body {
 }
 .my-all-gallery .my-all-card .overlay a {
   color: var(--main-color--);
+  
 }
 .subscribe-gallery {
   padding: 10px 0;
