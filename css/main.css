@@ -443,6 +443,9 @@ body {
   background-color: var(--main-background--);
   padding: 10px 0 10px 0;
 }
+.my-all-gallery h2{
+  color: var(--main-color--);
+}
 .my-all-gallery .my-all-card {
   margin: 10px 0 10px 0;
   position: relative;
